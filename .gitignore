@@ -1,0 +1,10 @@
+env
+__pycache__
+test.py
+age/shape_predictor_68_face_landmarks.dat
+age/age_model_weights.h5
+age/vgg_face_weights.h5
+gender/gender_model_weights.h5
+race/race_model_single_batch.h5
+*.mp4
+test_*
